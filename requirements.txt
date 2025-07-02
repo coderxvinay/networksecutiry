@@ -1,9 +1,15 @@
 python-dotenv
-ipykernel 
-pandas 
-numpy 
+pandas
+numpy
+pymongo
+certifi
+pymongo[srv]
 scikit-learn
-matplotlib
-seaborn 
-dill
-bs4
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
+
+# -e .
